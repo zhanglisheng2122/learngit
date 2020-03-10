@@ -71,6 +71,6 @@ public class Md5Utils {
 
 
     public static void main(String[] args) {
-        
+        System.out.println();
     }
 }
