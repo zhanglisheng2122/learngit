@@ -68,4 +68,9 @@ public class Md5Utils {
         int d2 = n % 16;
         return HEX_DIGITS[d1] + HEX_DIGITS[d2];
     }
+
+
+    public static void main(String[] args) {
+        
+    }
 }
