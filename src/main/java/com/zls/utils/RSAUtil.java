@@ -10,7 +10,6 @@ import java.security.spec.PKCS8EncodedKeySpec;
 import java.security.spec.X509EncodedKeySpec;
 import java.util.*;
 import javax.crypto.Cipher;
-import org.apache.commons.codec.binary.Base64;
 
 
 /***
