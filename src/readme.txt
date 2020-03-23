@@ -8,3 +8,10 @@ fixbug
 
 fixbug 2
 
+<<<<<<< HEAD
+=======
+
+fixbug 3
+
+fixbug 4
+>>>>>>> 36c9e8e... fix 4
